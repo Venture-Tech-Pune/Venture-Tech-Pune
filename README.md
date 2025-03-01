@@ -57,9 +57,9 @@ We continuously innovate to build **smart, scalable, and high-performance soluti
 ## 📈 Our GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venturetechnologies&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venturetechnologies&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venturetechnologies&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venture-tech-pune&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venture-tech-pune&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venture-tech-pune&layout=compact&theme=radical" />
 </p>
 
 ---
