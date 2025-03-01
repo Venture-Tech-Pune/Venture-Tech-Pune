@@ -11,9 +11,9 @@
 
 **Venture Technologies Pvt. Ltd.** is an innovative software development company specializing in AI, Web, and Mobile applications. We are committed to delivering top-tier solutions in **Deep Learning, AI-driven applications, Web Development, and Cloud Computing**.
 
-📍 **Location:** Gira Imperium, Kharadi, Pune  
+
 📧 **Email:** hr@venturetech.co.in  
-🌐 **Website:** [Coming Soon]  
+🌐 **Website:** venturetech.co.in  
 
 ### 🚀 **Our Notable Projects**
 🔹 **Ashvadhenu** – Animal management app for farmers.  
