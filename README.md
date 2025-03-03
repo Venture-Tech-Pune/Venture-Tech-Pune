@@ -11,7 +11,7 @@
 
 **Venture Technologies Pvt. Ltd.** is a **technology-driven software company** specializing in **AI, Web, and Cloud-based solutions**. Our mission is to provide **cutting-edge, scalable, and secure software solutions** to empower businesses worldwide.  
 
-📍 **Location:** Gira Imperium, Kharadi, Pune  
+📍 **Location:** Gera Imperium, Kharadi, Pune  
 📧 **Email:** hr@venturetech.co.in  
 🌐 **Website:** [https://venturetech.co.in/](https://venturetech.co.in/)  
 
@@ -108,7 +108,7 @@ We continuously innovate to build **smart, scalable, and high-performance soluti
 
 ## 📞 Contact Us  
 
-📍 **Office Address:** Gira Imperium, Kharadi, Pune  
+📍 **Office Address:** Gera Imperium, Kharadi, Pune  
 📧 **Email:** hr@venturetech.co.in  
 🌐 **Website:** [https://venturetech.co.in/](https://venturetech.co.in/)  
 
