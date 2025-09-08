@@ -109,7 +109,7 @@ We continuously innovate to build **smart, scalable, and high-performance soluti
 ## 📞 Contact Us  
 
 📍 **Office Address:** Gera Imperium, Kharadi, Pune  
-📧 **Email:** hr@venturetech.co.in  
+📧 **Email:** hr@venturetechnologies.in
 🌐 **Website:** [https://venturetech.co.in/](https://venturetech.co.in/)  
 
 <p align="center">
