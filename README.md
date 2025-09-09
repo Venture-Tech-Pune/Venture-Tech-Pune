@@ -13,7 +13,7 @@
 
 📍 **Location:** Gera Imperium, Kharadi, Pune  
 📧 **Email:** hr@venturetechnologies.in 
-🌐 **Website:** [https://venturetech.co.in/](https://venturetech.co.in/)  
+🌐 **Website:** [https://venturetechnologies.in/](https://venturetechnologies.in)  
 
 ---
 
