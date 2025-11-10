@@ -20,7 +20,7 @@ We empower startups, enterprises, and industries with **intelligent automation, 
 📍 **Location:** Gera Imperium, Kharadi, Pune  
 📧 **Email:** hr@venturetechnologies.in  
 🌐 **Website:** [https://venturetechnologies.in](https://venturetechnologies.in)  
-📞 **Contact:** +91-xxxxxxxxxx  
+📞 **Contact:** +91-2132796054
 
 ---
 
